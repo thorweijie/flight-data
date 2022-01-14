@@ -6,7 +6,7 @@ const Home = () => (
         <Form>
             <Row className="justify-content-center">
                 <Col xs="auto">
-                    <Form.Label>
+                    <Form.Label style={{ 'color': 'white' }}>
                         Enter airport/airline code
                     </Form.Label>
                     <Form.Control
